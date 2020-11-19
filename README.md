@@ -1,0 +1,2 @@
+# Impact-of-COVID-19-on-Societal-Behavior
+The sentiment scores of a large-scale dataset containing tweets related to COVID-19 have been categorized into positive, negative and neutral. The presented study also aims to investigate the impact of COVID-19 on the mental health of people. Tweets have been hydrated and pre-processed using the NLTK toolkit to find the most frequently posted COVID- related words and check the use of these COVID-19 terms as figurative language. 
